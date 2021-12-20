@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\bin\Debug\netcoreapp3.1\LoginExceptionProject.exe
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\bin\Debug\netcoreapp3.1\LoginExceptionProject.deps.json
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\bin\Debug\netcoreapp3.1\LoginExceptionProject.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\bin\Debug\netcoreapp3.1\LoginExceptionProject.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\bin\Debug\netcoreapp3.1\LoginExceptionProject.dll
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\bin\Debug\netcoreapp3.1\LoginExceptionProject.pdb
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\obj\Debug\netcoreapp3.1\LoginExceptionProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\obj\Debug\netcoreapp3.1\LoginExceptionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\obj\Debug\netcoreapp3.1\LoginExceptionProject.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\obj\Debug\netcoreapp3.1\LoginExceptionProject.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\obj\Debug\netcoreapp3.1\LoginExceptionProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\obj\Debug\netcoreapp3.1\LoginExceptionProject.dll
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\obj\Debug\netcoreapp3.1\LoginExceptionProject.pdb
+C:\Users\ASUS\Desktop\C#\LoginExceptionProject\LoginExceptionProject\obj\Debug\netcoreapp3.1\LoginExceptionProject.genruntimeconfig.cache
